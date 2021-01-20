@@ -31,11 +31,13 @@
 
 • 📲 Simulação de Processos.
 
-•	 Linguagens de programação.
+•	💻 Linguagens de programação C, C++c C#, Pascal, entre outras.
 
-•	 Engenharia de Software.
+•	💾 Engenharia de Software.
+
 
 **Minha Rede Global**
 
-•	Linkedin
+•	[Linkedin](http://www.linkedin.com/in/jorgeribeirow/)
+
 
